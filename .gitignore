@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*$py.class
+ai_header.txt
+ai_name.txt
